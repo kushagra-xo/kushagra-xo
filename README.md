@@ -4,7 +4,7 @@
 
 <br>
 
-I am a student who is currently pursuing their bachelors in technology. I have an interest in fiddling with technology, exploring it's limits and understanding it's complexities. It's something that brings me joy.
+I’m a student currently pursuing a Bachelor’s in Technology. I have a passion for exploring technology, pushing its limits, and understanding its complexities. It’s something that truly brings me joy.
 
 <br>
 
@@ -19,7 +19,7 @@ I am a student who is currently pursuing their bachelors in technology. I have a
 
 ### 🔧 Skills & Technologies
 
-I truly believe that the essence of computers is much beyond a certain language or framework. It is really the ability to solve, and the ability to translate it into a procedure it what that matters. No framework or language is good enough if you can't seem to find a solution.
+I believe that the true essence of computers goes beyond any specific language or framework. It's about problem-solving and translating solutions into effective procedures. No framework or language is valuable if you can’t find a solution.
 
 <br>
 
