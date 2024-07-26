@@ -4,7 +4,7 @@
 
 <br>
 
-I am a student who is currently pursuing their bachelors in technology. I have an interest in fiddling with technology, exploring it's limits and understanding it's complexities. It is something that brings me joy.
+I am a student who is currently pursuing their bachelors in technology. I have an interest in fiddling with technology, exploring it's limits and understanding it's complexities. It's something that brings me joy.
 
 <br>
 
