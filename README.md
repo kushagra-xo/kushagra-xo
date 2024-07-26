@@ -65,14 +65,8 @@ I believe that the true essence of computers goes beyond any specific language o
 
 <br>
 
-### 📫 How to Connect:
+### 📫 Connect:
 
 Feel free to reach out to me via <a href="mailto:kushagra.j@protonmail.com">email</a> or through GitHub issues if you have any questions or just want to connect.
 
 <br>
-<hr>
-<br>
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
