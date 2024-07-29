@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=48&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=600&height=120&lines=Hi%2C+I+am+Kushagra!" />
-</p>
+# Hi, I am Kushagra!
 
 <br>
 
@@ -8,16 +6,30 @@ I’m a student currently pursuing a Bachelor’s in Technology. I have a passio
 
 <br>
 
-### 🚀 Currently Focused On
+### 🚀 Currently Exploring
+<br>
 
-- Understanding the essence of Computer Science
-- Learning React and Flutter
-- Exploring Cyber Security
-- Working on personal projects
+- **Core Concepts**: I am delving deep into fundamental areas like ![Algorithms](https://img.shields.io/badge/Algorithms-003C71?style=for-the-badge&logo=algorithm&logoColor=white)
+, ![Data Structures](https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge&logo=data%20structures&logoColor=white)
+, and ![Computational Thinking](https://img.shields.io/badge/Computational%20Thinking-d2ffe9?style=for-the-badge&logo=thinking&logoColor=white)
+. My goal is to understand what computer science truly is, how it can address real-world problems, and how I can leverage this knowledge to benefit humanity and assist others.
+
+- **Exploring Frameworks**: I’m actively experimenting with a variety of ![Frameworks](https://img.shields.io/badge/Frameworks-ffbcbd?style=for-the-badge&logo=toolbox&logoColor=white). This exploration helps me broaden my skill set and discover the best tools for different development needs.
+
+- **Cybersecurity & Privacy**: My passion for ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-fff9ce?style=for-the-badge&logo=security&logoColor=white)
+, freedom, and ![Privacy](https://img.shields.io/badge/Privacy-004B49?style=for-the-badge&logo=privacy&logoColor=white)
+ drives me to be a privacy advocate and focus on secure software. I have a particular interest in projects like ![Graphene OS](https://img.shields.io/badge/Graphene%20OS-9B9B9B?style=for-the-badge&logo=graphene&logoColor=white)
+, which align with my values of security and personal freedom.
+
+- **Front-End Development & Design**: I am deeply interested in front-end technologies and  ![Privacy](https://img.shields.io/badge/UI/UX%20Design-bdbdff?style=for-the-badge&logo=privacy&logoColor=white)design. I find beauty in the intersection of technology and art. I aim to contribute to the design landscape by creating visually appealing and functional user interfaces.
+
+- **Personal Projects**: I find immense satisfaction in creating and developing my own ![Personal Projects](https://img.shields.io/badge/Personal%20Projects-ffb2ee?style=for-the-badge&logo=projects&logoColor=white)
+. Each project is a chance to apply what I’ve learned, solve unique challenges, and bring my ideas to life.
 
 <br>
 
 ### 🔧 Skills & Technologies
+<br>
 
 I believe that the true essence of computers goes beyond any specific language or framework. It's about problem-solving and translating solutions into effective procedures. No framework or language is valuable if you can’t find a solution.
 
@@ -26,47 +38,54 @@ I believe that the true essence of computers goes beyond any specific language o
 <table><tr><td valign="top" width="33%">
 
 #### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </td><td valign="top" width="33%">
-
-
 
 #### Backend  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>    
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>   
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </td><td valign="top" width="33%">
 
-
-
 #### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>   
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+
 
 </td></tr></table>  
 
 <br>
 
-### 📫 Connect:
+### Stats
+<br>
 
-Feel free to reach out to me via <a href="mailto:kushagra.j@protonmail.com">email</a> or through GitHub issues if you have any questions or just want to connect.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kushagra-xo&show_icons=true&theme=radical)
+
+<br>
+
+### 📫 Connect:
+<br>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagra.j@protonmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kushagra-xo)
 
 <br>
