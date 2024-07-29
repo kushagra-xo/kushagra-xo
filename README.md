@@ -1,6 +1,6 @@
 # Hi, I am Kushagra!
 
-I’m a student currently pursuing a Bachelor’s in Technology. I have a passion for exploring technology, pushing its limits, and understanding its complexities. It’s something that truly brings me joy.
+I’m a student currently pursuing a ![BTech CSE & Cybersecurity](https://img.shields.io/badge/BTech%20in%20CSE%20%26%20Cybersecurity-ffffff?style=for-the-badge&logo=education&logoColor=white). I have a passion for exploring technology, pushing its limits, and understanding its complexities. It’s something that truly brings me joy.
 
 <br>
 
