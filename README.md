@@ -72,7 +72,11 @@ I believe that the true essence of computers goes beyond any specific language o
 
 ### Stats
 
+#### Github
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kushagra-xo&show_icons=true&theme=radical)
+
+#### Codewars
+![Codewars](https://www.codewars.com/users/kushagra-xo/badges/large)
 
 <br>
 
