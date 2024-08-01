@@ -4,7 +4,7 @@ I’m a student currently pursuing a ![BTech CSE & Cybersecurity](https://img.sh
 
 <br>
 
-### 🚀 Currently Exploring
+### Currently Exploring
 
 - **Core Concepts**: I am delving deep into fundamental areas like ![Algorithms](https://img.shields.io/badge/Algorithms-003C71?style=for-the-badge&logo=algorithm&logoColor=white)
 , ![Data Structures](https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge&logo=data%20structures&logoColor=white)
@@ -25,7 +25,7 @@ I’m a student currently pursuing a ![BTech CSE & Cybersecurity](https://img.sh
 
 <br>
 
-### 🔧 Skills & Technologies
+### Skills & Technologies
 
 I believe that the true essence of computers goes beyond any specific language or framework. It's about problem-solving and translating solutions into effective procedures. No framework or language is valuable if you can’t find a solution.
 
@@ -76,16 +76,5 @@ I believe that the true essence of computers goes beyond any specific language o
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kushagra-xo&show_icons=true&theme=dark&hide_border=true&border_radius=10)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kushagra-xo&theme=dark&hide_border=true&card_width=470&hide_longest_streak=true&border_radius=10)
-
 #### Codewars
 ![Codewars](https://www.codewars.com/users/kushagra-xo/badges/large)
-
-<br>
-
-### 📫 Connect:
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagra.j@protonmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kushagra-xo)
-
-<br>
